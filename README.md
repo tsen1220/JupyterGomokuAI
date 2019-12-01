@@ -1,12 +1,12 @@
 # MiniMax Alpha-Beta Algorithm
 
 
-Develop the GomokuAI by MiniMax Alpha-Beta Algorithm.
+Develop the Gomoku AI by MiniMax Alpha-Beta Algorithm.
+
+
 
 ```
 Minimax Alpha-Beta :
-
-# When alpha>=beta,cut-off the node.
 
 function alphabeta(node, depth, α, β, maximizingPlayer)
      if depth = 0 or the terminal node
