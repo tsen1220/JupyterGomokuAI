@@ -3,7 +3,9 @@
 
 Develop the Gomoku AI by MiniMax Alpha-Beta Algorithm.
 
+Use this algorithm to search the highest score for white and lowest score for black.
 
+To choose the best steps.
 
 ```
 Minimax Alpha-Beta :
